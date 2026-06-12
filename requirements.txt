@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+google-generativeai
+pandas
+openpyxl
+python-dotenv
+easyocr
